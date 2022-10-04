@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">temantani</string>
+    <string name="textBelumRegister"><font color="#121212">Belum punya akun?</font>  <font color="#5CA230"><b><u>Silahkan daftar disini!</u></b></font></string>
+</resources>

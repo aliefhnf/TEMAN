@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525489249009",
+    "project_id": "apktemantani",
+    "storage_bucket": "apktemantani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525489249009:android:92357904db993abd05e750",
+        "android_client_info": {
+          "package_name": "com.example.temantani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525489249009-cte4bqis8p67k8rv12qm4sgilprh5ubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzZulXzjPa4HvpVTWMQqP8Jp0paAHSvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525489249009-cte4bqis8p67k8rv12qm4sgilprh5ubi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
